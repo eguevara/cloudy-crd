@@ -1,0 +1,7 @@
+apiVersion: cloudy.com/v1
+kind: Deployment
+metadata:
+  name: drupal-deployment
+spec:
+  version: 0.0.1
+  environment: "UAT"

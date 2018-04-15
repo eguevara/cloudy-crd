@@ -7,7 +7,7 @@ import (
 )
 
 // GroupName is the group name for the Deployment API
-const GroupName = "cloudy..com"
+const GroupName = "cloudy.com"
 
 // SchemeGroupVersion is the GroupVersion for the Deployment API
 var SchemeGroupVersion = schema.GroupVersion{Group: GroupName, Version: "v1"}
